@@ -1,0 +1,15 @@
+[submodule "UsersCloudConfigServer"]
+	path = UsersCloudConfigServer
+	url = https://github.com/nitinkc/UsersCloudConfigServer.git
+[submodule "UsersEurekaDiscoveryService"]
+	path = UsersEurekaDiscoveryService
+	url = https://github.com/nitinkc/UsersEurekaDiscoveryService.git
+[submodule "UsersAPI"]
+	path = UsersAPI
+	url = https://github.com/nitinkc/UsersAPI.git
+[submodule "UsersAPIGateway"]
+	path = UsersAPIGateway
+	url = https://github.com/nitinkc/UsersAPIGateway.git
+[submodule "user-password-reset-microservice"]
+	path = user-password-reset-microservice
+	url = https://github.com/nitinkc/user-password-reset-microservice.git
