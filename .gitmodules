@@ -13,3 +13,6 @@
 [submodule "user-password-reset-microservice"]
 	path = user-password-reset-microservice
 	url = https://github.com/nitinkc/user-password-reset-microservice.git
+[submodule "CentralizedConfiguration"]
+	path = CentralizedConfiguration
+	url = https://github.com/nitinkc/CentralizedConfiguration.git
