@@ -7,12 +7,12 @@
 [submodule "UsersAPI"]
 	path = UsersAPI
 	url = https://github.com/nitinkc/UsersAPI.git
-[submodule "UsersAPIGateway"]
-	path = UsersAPIGateway
-	url = https://github.com/nitinkc/UsersAPIGateway.git
 [submodule "user-password-reset-microservice"]
 	path = user-password-reset-microservice
 	url = https://github.com/nitinkc/user-password-reset-microservice.git
 [submodule "CentralizedConfiguration"]
 	path = CentralizedConfiguration
 	url = https://github.com/nitinkc/CentralizedConfiguration.git
+[submodule "UsersAPIGateway"]
+	path = UsersAPIGateway
+	url = https://github.com/nitinkc/UsersAPIGateway.git
