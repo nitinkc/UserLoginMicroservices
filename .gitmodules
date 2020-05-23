@@ -16,3 +16,6 @@
 [submodule "UsersAPIGateway"]
 	path = UsersAPIGateway
 	url = https://github.com/nitinkc/UsersAPIGateway.git
+[submodule "SharePortfolio"]
+	path = SharePortfolio
+	url = https://github.com/nitinkc/SharePortfolio.git
